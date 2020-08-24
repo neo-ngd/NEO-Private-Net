@@ -7,19 +7,7 @@ The files in the project are configured private net that can be run directly aft
 
 The project contains a private net of Neo 2.x and Neo 3.0 preview.
 
-NEO and GAS have been claimed in the wallet `a.json`, with a password of `1` and block count is about 40.
-
-Version description:
-
-Neo 2.10.3
-
-​	-- Neo CLI v2.10.3
-
-​	-- Neo GUI v2.10.3
-
-Neo 3.0.0 Preview2
-
-​	-- Neo CLI v3.0.0 Preview2
+NEO and GAS have been claimed in the wallet `a.json`, with a password of `1`.
 
 ## Environment
 
@@ -33,10 +21,6 @@ Running neo-gui required to install [.NetFramework 4.7.2](https://www.microsoft.
 
 Go to the neo-cli directory, double-click `neo-cli.exe`
 
-As shown in the figure:
-
-![](img/privatechain_demo.png)
-
 ## Stop
 
 Just close the NEO-CLI window directly.
@@ -48,19 +32,7 @@ Just close the NEO-CLI window directly.
 
 项目中包含 Neo 2.x 版本和 Neo 3.0 预览版的私有链。
 
-已提取 NEO 和 GAS，提到到钱包 `a.json` 中，密码为 `1`，区块高度为 40 左右。
-
-版本说明：
-
-Neo 2.10.3
-
-​	-- Neo CLI v2.10.3
-
-​	-- Neo GUI v2.10.3
-
-Neo 3.0.0 Preview2
-
-​	-- Neo CLI v3.0.0 Preview2
+已提取 NEO 和 GAS，提到到钱包 `a.json` 中，密码为 `1`。
 
 ## 运行环境
 
@@ -73,10 +45,6 @@ Windows10
 ## 启动私有链
 
 进入 neo-cli 目录，双击 `neo-cli.exe`
-
-如图所示：
-
-![](img/privatechain_demo.png)
 
 ## 停止私有链
 
