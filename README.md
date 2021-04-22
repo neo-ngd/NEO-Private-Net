@@ -15,8 +15,6 @@ Windows10
 
 Running neo-cli doesn't require additional environments
 
-Running neo-gui required to install [.NetFramework 4.7.2](https://www.microsoft.com/net/download/dotnet-framework-runtime)
-
 ## Run
 
 Go to the neo-cli directory, double-click `neo-cli.exe`
@@ -30,9 +28,6 @@ Just close the NEO-CLI window directly.
 ## 说明
 项目中的文件为已配置好的私有链，下载后可以直接运行。
 
-如果觉得 GitHub 下载慢，也可以从 [百度网盘](https://pan.baidu.com/s/1Fg8nZWZwqUtqA0iUJZVsUw 
-) 下载，提取码：neoo
-
 项目中包含 Neo 2.x 版本和 Neo 3.0 预览版的私有链。
 
 已提取 NEO 和 GAS，提到到钱包 `a.json` 中，密码为 `1`。
@@ -42,8 +37,6 @@ Just close the NEO-CLI window directly.
 Windows10
 
 运行 neo-cli 不需要安装额外环境
-
-运行 neo-gui 需要安装 [.NetFramework 4.7.2](https://www.microsoft.com/net/download/dotnet-framework-runtime)
 
 ## 启动私有链
 
